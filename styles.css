@@ -1,0 +1,21 @@
+/* Style sheet CSS */
+
+div {
+    color: black;
+    background-color: white;
+}
+
+h1 {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+ul, ol {
+    color:olive
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
